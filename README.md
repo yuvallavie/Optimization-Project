@@ -9,7 +9,7 @@ https://www.kaggle.com/ronitf/heart-disease-uci
 We show that the oBFGS and Nesterov Accelerated oBFGS dominate the commonly used Stochastic Gradient Descent and present results on a synthetic dataset and the heart rate classification problem.
 <br>
 <ul>
-  <li> Nesterov_oBFGS.pdf - A description of our work which contains deriviations and implementation details</li>
+  <li> Nesterov_sBFGS.pdf - A description of our work which contains deriviations and implementation details</li>
   <li> SGD.py- Stochastic Gradient Descent</li>
   <li> OBFGS.py- Stochastic BFGS</li>
   <li> NOBFGS.py- Nesterov Accelerated Stochastic BFGS</li>
