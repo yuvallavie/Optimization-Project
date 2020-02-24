@@ -14,4 +14,6 @@ We show that the oBFGS and Nesterov Accelerated oBFGS dominate the commonly used
   <li> OBFGS.py- Stochastic BFGS</li>
   <li> NOBFGS.py- Nesterov Accelerated Stochastic BFGS</li>
   <li> main.py - A runnable python file which replicates the results</li>
+  <li> features.txt , labels.txt - Synthetic data files</li>
+  <li> heart.csv - Real data for a classification problem we wish to solve</li>
 </ul>
